@@ -55,8 +55,8 @@ Inicia el servidor de desarrollo:
 ```bash
 npm run start:dev
 ```
-El backend estará corriendo usualmente en `http://localhost:3000`.
-La documentación Swagger está disponible en `http://localhost:3000/api` (ajustar según configuración).
+El backend estará corriendo usualmente en `http://localhost:3001`.
+La documentación Swagger está disponible en `http://localhost:3001/api` (ajustar según configuración).
 
 ### 2. Configuración del Frontend
 
@@ -72,7 +72,7 @@ Inicia el servidor de desarrollo:
 ```bash
 npm run dev
 ```
-La aplicación frontend estará disponible en `http://localhost:3000` o `http://localhost:3002` (dependiendo de los puertos libres).
+La aplicación frontend estará disponible en `http://localhost:3000`
 
 ## Funcionalidades Principales
 
