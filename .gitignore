@@ -38,3 +38,15 @@ yarn-error.log*
 # OS Files
 .DS_Store
 Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Data Generator Artifacts
+data_generator/data/generated_properties*.json
+!data_generator/data/caba_neighborhoods.json
