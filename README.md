@@ -73,14 +73,14 @@ npm run dev
 ```
 La aplicación frontend estará disponible en `http://localhost:3000`
 
-## Funcionalidades Principales
+## Características Principales
 
-- **Búsqueda Avanzada**: Búsqueda de propiedades con filtros y paginación.
-- **Visualización en Mapa**: Ubicación interactiva de propiedades usando Leaflet.
-- **Estadísticas**: Gráficos de precios y distribución usando Recharts.
-- **API Documentada**: 
--- POSTMAN: https://documenter.getpostman.com/view/19823718/2sBXVoAoVT, 
--- SWAGGER: http://localhost:3001/api/docs
+* **Búsqueda Avanzada**: Sistema de búsqueda de propiedades con soporte para filtros dinámicos, paginación y búsqueda por texto optimizada.
+* **Visualización en Mapa**: Interfaz de ubicación interactiva para propiedades integrada con **Leaflet**.
+* **Estadísticas**: Visualización de datos, gráficos de precios y distribución de mercado mediante **Recharts**.
+* **Documentación de la API**:
+    * [Postman Documentation](https://documenter.getpostman.com/view/19823718/2sBXVoAoVT)
+    * [Swagger UI (Local)](http://localhost:3001/api/docs)
 
 
 
