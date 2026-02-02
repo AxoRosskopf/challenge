@@ -56,7 +56,6 @@ Inicia el servidor de desarrollo:
 npm run start:dev
 ```
 El backend estará corriendo usualmente en `http://localhost:3001`.
-La documentación Swagger está disponible en `http://localhost:3001/api` (ajustar según configuración).
 
 ### 2. Configuración del Frontend
 
@@ -80,8 +79,8 @@ La aplicación frontend estará disponible en `http://localhost:3000`
 - **Visualización en Mapa**: Ubicación interactiva de propiedades usando Leaflet.
 - **Estadísticas**: Gráficos de precios y distribución usando Recharts.
 - **API Documentada**: 
-POSTMAN: https://documenter.getpostman.com/view/19823718/2sBXVoAoVT, 
-SWAGGER: http://localhost:3001/api/docs
+-- POSTMAN: https://documenter.getpostman.com/view/19823718/2sBXVoAoVT, 
+-- SWAGGER: http://localhost:3001/api/docs
 
 
 
