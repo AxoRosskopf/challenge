@@ -72,7 +72,7 @@ Inicia el servidor de desarrollo:
 ```bash
 npm run dev
 ```
-La aplicación frontend estará disponible en `http://localhost:3000` o `http://localhost:3001` (dependiendo de los puertos libres).
+La aplicación frontend estará disponible en `http://localhost:3000` o `http://localhost:3002` (dependiendo de los puertos libres).
 
 ## Funcionalidades Principales
 
